@@ -1,6 +1,8 @@
 # ETG Sales Inventory Management System
 This respository is having all the python codes with json file for making an Inventory Management System for sales during my ETG AI/ML Internship.
 
+It is a python based project intended to implement the Sales Inventory Management System using JSON files which provides the user to add, remove, search, update and view the products. It also allows customers to purchase the product. It then generates the bill after the purchase.
+
 ### This Inventory Management System is working on No SQL based database :
 1. Used 2 JSON files to store data.
 2. product.json is used for data on products.
