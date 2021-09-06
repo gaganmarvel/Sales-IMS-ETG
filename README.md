@@ -36,4 +36,5 @@ My project can do the following things:
 8. Add transaction details to the inventory.
 9. View purchase history from the inventory.
 
-
+### Other Useful Links:
+LinkedIn - https://www.linkedin.com/in/gagan-v-28a5aa21b/
