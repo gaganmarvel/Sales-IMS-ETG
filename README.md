@@ -9,7 +9,7 @@ It is a python based project intended to implement the Sales Inventory Managemen
 2. product.json is used for data on products.
 3. sales.json is used for data on purchase details.
 4. New inventory can be created/added.
-5. Purchase of products can be done.
+5. Purchase of products can be done. 
 
 There are 5 attributes per product:
 1. Product ID
