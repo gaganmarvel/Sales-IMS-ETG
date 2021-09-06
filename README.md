@@ -5,14 +5,8 @@ This respository is having all the python codes with json file for making an Inv
 1. Used 2 JSON files to store data.
 2. product.json is used for data on products.
 3. sales.json is used for data on purchase details.
-4. New product can be added to the inventory.
-5. The products details can be displayed.
-6. Removal of specific product can be done.
-7. Search of specific product can be done.
-8. Update of specific product can be done.
-9. Purchasing of product can be done.
-10. Bill is generated.
-11. Purchase history can be viewed.
+4. New inventory can be created/added.
+5. Purchase of products can be done.
 
 There are 5 attributes per product:
 1. Product ID
@@ -28,6 +22,15 @@ There are 5 attributes per purchase:
 4. Quantity Bought
 5. Billing Amount
 
-
+My project can do the following things:
+1. Add products to the inventory.
+2. Display all products from the inventory.
+3. Remove products from the inventory.
+4. Search products from the inventory.
+5. Update products from the inventory.
+6. Purchase for Customers.
+7. Generates Bills after purchase.
+8. Add transaction details to the inventory.
+9. View purchase history from the inventory.
 
 
